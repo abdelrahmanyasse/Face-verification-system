@@ -1,0 +1,19 @@
+# Face verification (FaceNet)
+facenet-pytorch==2.5.3
+torch
+torchvision
+numpy
+pillow
+
+# Evaluation and plotting
+scikit-learn
+pandas
+matplotlib
+tqdm
+
+# Anti-spoofing (Silent-Face-Anti-Spoofing) and image reading
+opencv-python
+easydict
+
+# Only needed if you retrain the anti-spoofing models
+# tensorboardX
